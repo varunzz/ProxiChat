@@ -7,7 +7,7 @@ A peer-to-peer proximity messaging app built with Flutter that allows users to d
 ## Demo
 
 > Two devices discovering each other and exchanging messages in real time over Bluetooth/WiFi Direct with zero internet connectivity.
-**Device 1** <br>
+### **Device 1**
 | Home Screen | Devices Screen | Chat Screen |
 |---|---|---|
 | <img src="Assets/User1_homescreen.png" width="200"/> | <img src="Assets/User1_chatlist.png" width="200"/> | <img src="Assets/User1_chatwindow.png" width="200"/> |
