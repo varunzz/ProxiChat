@@ -10,7 +10,7 @@ A peer-to-peer proximity messaging app built with Flutter that allows users to d
 
 | Home Screen | Devices Screen | Chat Screen |
 |---|---|---|
-| <img src="screenshots/user1_home.png" width="200"/> | <img src="screenshots/user1_devices.png" width="200"/> | <img src="screenshots/user1_chat.png" width="200"/> |
+| <img src="Assets/User1_homescreen.png" width="200"/> | <img src="Assets/User1_chatlist.png" width="200"/> | <img src="Assets/User1_chatwindow.png" width="200"/> |
 
 ## How It Works
 
