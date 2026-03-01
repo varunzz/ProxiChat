@@ -133,26 +133,6 @@ ProxiChat requires the following permissions for Nearby Connections to work:
 
 ---
 
-## Roadmap
-
-- [ ] Image and file sharing
-- [ ] Push-to-talk walkie talkie feature
-- [ ] Message notifications when app is in background
-- [ ] Message history (local storage)
-- [ ] iOS support via Multipeer Connectivity
-- [ ] End-to-end encryption
-
----
-
-## Limitations
-
-- Android only (iOS support planned)
-- Both devices must have ProxiChat installed
-- Range limited to ~100m (Bluetooth) or ~200m (WiFi Direct)
-- No message persistence — messages are lost when app closes
-
----
-
 ## What I Learned
 
 Building ProxiChat gave me hands-on experience with:
